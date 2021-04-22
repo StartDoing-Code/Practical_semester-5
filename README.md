@@ -1,2 +1,2 @@
-# practical
-## this is my practical work
+# Practical
+## This is my practical work
